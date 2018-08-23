@@ -6,7 +6,4 @@ features and helping the company to decide on a technology for maximum
 profits.
 
 ### How do I view the code?
-You need Jupyter Notebook to view the interactive version of this 
-iPython Notebook.
-
-
+Click on the Data_Analysis.ipynb to view the code with output.
